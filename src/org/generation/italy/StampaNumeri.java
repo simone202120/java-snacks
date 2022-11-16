@@ -14,8 +14,6 @@ public class StampaNumeri {
 		}else {
 			System.out.println(numero + 1 );
 		}
-		
-		
 	}
 	
 }
